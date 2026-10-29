@@ -39,3 +39,4 @@ footer{background:var(--green);color:var(--ivory);text-align:center;padding:24px
  .two{grid-template-columns:1fr 1fr;align-items:center}
  .cards{grid-template-columns:repeat(3,1fr)}
 }
+.ph-wrap{position:relative}.ph-tag{position:absolute;top:10px;left:10px;background:rgba(62,92,69,.85);color:#fff;font:12px Arial,sans-serif;padding:4px 10px;border-radius:12px}
